@@ -1,0 +1,6 @@
+lesson_2_reflections.txt
+
+What happens when you initialize a repository? Why do you need to do it?
+
+Need to first commit to ensure the first version 
+
